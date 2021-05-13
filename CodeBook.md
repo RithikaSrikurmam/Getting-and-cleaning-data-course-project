@@ -48,5 +48,4 @@ You must have already downloaded the dataset and unzipped it then **setwd()** to
 4. Appropriately labels the data set with descriptive variable names, mostly from **features.txt**. The resulting dataset is saved under the variable **joined2**.  You can look at it with View(joined2) provided you are using RStudio
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject and exports the data into **tidydata.csv**
 
-See the comments throughout the code or contact me if you have any confusion.
--H
+
